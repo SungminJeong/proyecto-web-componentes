@@ -1,0 +1,22 @@
+#skills{
+    padding: 20px;
+}
+
+.skill-title{
+    border-bottom: 5px solid var(--main-color);;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 70px;
+    left: 0;
+    width: 45%;
+    height: 5vw;
+    font-size: 4vw;
+    font-weight: 900;
+    line-height: 1.6;
+    text-transform: uppercase;
+    font-family: var(--main-font);
+    color: var(--main-color);
+}  

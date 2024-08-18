@@ -1,0 +1,21 @@
+.about-part > div{
+    margin-bottom: 30vh;
+}
+
+.about-part > div > h3{
+    color: var(--main-color);
+    font-size: 3rem;
+    text-decoration: underline;
+    margin-bottom: 20px;
+    font-family: var(--main-font);
+}
+
+.about-part > div > p{
+    color: var(--main-color);
+    font-size: 1.1rem;
+    font-family: var(--main-font);
+}
+
+.part-title{
+    text-transform: uppercase;
+}

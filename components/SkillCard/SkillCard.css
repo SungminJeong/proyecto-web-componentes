@@ -1,5 +1,5 @@
 .skill-item{
-    height: 50vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -64,7 +64,7 @@
 
 @media(max-width: 440px){
     .skill-item{
-        height: 80vh;
+        height: 100vh;
     }
     .skill-item > div > h3{
         font-size: 40px;

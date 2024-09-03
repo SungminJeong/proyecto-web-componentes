@@ -44,7 +44,7 @@ const data = {
   skills: [
     {id:1, item:"HTML5", desc: "The greatest benefit of HTML 5 is that the functionality is built into the browser. HTML 5 resolves the web application complexity issues with DOM and HTML support, for high-quality drawings, video & audio embedding, charts & animation and many other types of rich content required by users."},
     {id:2, item:"CSS", desc: "CSS stands for Cascading Style Sheets. It is the coding language that gives a website its look and layout. Along with HTML, CSS is fundamental to web design. Without it, websites would still be plain text on white backgrounds."},
-    {id:3, item:"JavaScript", desc: "Worldwide, web development has seen a major shift with the widespread use of JavaScript. You might question why this scripting language has risen to such prominence. The answer lies in its versatility and power in creating interactive and dynamic websites. Let's examine JavaScript and its role in web development more closely. JavaScript, a programming language known for its versatility, breathes life into complex features on web pages. It's a lightweight, cross-platform, single-threaded, and compiled language, with its primary use being web page development.JavaScript provides objects that control a browser and its Document Object Model (DOM) on the client side. For example, it allows an application to position elements on an HTML form and react to user events such as mouse clicks, form input, and page navigation. Libraries like AngularJS and ReactJS,assist in this process.On the server side, JavaScript offers objects related to running JavaScript on a server. It enables an application to communicate with a database, preserve information continuity, or perform file operations on a server."},
+    {id:3, item:"JavaScript", desc: "Worldwide, web development has seen a major shift with the widespread use of JavaScript. You might question why this scripting language has risen to such prominence. The answer lies in its versatility and power in creating interactive and dynamic websites. JavaScript, a programming language known for its versatility, breathes life into complex features on web pages. It's a lightweight, cross-platform, single-threaded, and compiled language, with its primary use being web page development."},
     {id:4, item: "Vite", desc: "In recent years, the frontend development ecosystem has seen an explosion of new tools and frameworks designed to improve the developer experience. Among these is Vite, a relatively new entrant that has quickly gained popularity due to its impressive performance and speed. The best thing about Vite is that it's platform-agnostic, meaning it can be used to develop JavaScript/Typescript applications."},
     {id:5, item: "Frontend Development", desc: "Using all of skills as mentioned above, train hard 'Frontend Development' . I keep practicing Coding, enhance my skills, understand APIs and cultivate my soft skills."},
   ],
@@ -83,7 +83,7 @@ const data = {
     text1: "I didn’t get there by wishing for it ",
     text2: "or hoping for it,",
     text3: "but by working for it.",
-    image: "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?q=80&w=1856&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    image: "/icon/IMG_6759.jpg"
   },
   footer: "©Copyright 2024"
 };

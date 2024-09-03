@@ -5,7 +5,7 @@ const { intro } = data;
 const template = () => `
 <main id="intro">
 	<section class="intro-inner">
-		<h2 class="intro-title">${intro.title}<span>developer</span></h2>
+		<h1 class="intro-title">${intro.title}<span>Web Developer Portfolio</span></h1>
 		<article class="intro-text">
 			<section class="text">
 				<div>${intro.text1}</div>

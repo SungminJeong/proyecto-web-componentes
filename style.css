@@ -32,4 +32,5 @@ a{
 
 body{
     background-color: var(--main-backgroundColor);
+    font-family: var(--main-font);
 }

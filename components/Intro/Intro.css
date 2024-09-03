@@ -26,7 +26,6 @@
     display: block;
     text-align: center;
     font-family: var(--main-font);
-    text-transform: lowercase;
     letter-spacing: 3px;
 }
 
@@ -68,6 +67,7 @@
     filter: grayscale(100%);
     transition: all 0.4s;
     overflow: hidden;
+    object-fit: cover;
 }
 
 .intro-text:hover .text {

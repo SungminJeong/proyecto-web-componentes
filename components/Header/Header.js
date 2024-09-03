@@ -7,7 +7,7 @@ const Header = () => `
 <header id="header">
 	<section id="header-container">
 		<article id="header__logo">
-			<a href="#header" class="logo">Proyecto4<em>Components</em></a> 
+			<a href="#header" class="logo">Sungmin<em>Portfolio</em></a> 
 		</article>
 		<ul id="header-list">
 			${header.map((i) => `
